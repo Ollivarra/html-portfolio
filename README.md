@@ -1,2 +1,0 @@
-# html-portfolio
-AppBrewery course
