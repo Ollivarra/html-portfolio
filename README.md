@@ -1,2 +1,2 @@
 # html-portfolio
-AppBrewery cours
+AppBrewery course
